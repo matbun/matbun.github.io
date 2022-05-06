@@ -36,4 +36,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Download my CV [here](files/paper1.pdf)
+Download my CV [here](../files/CV.pdf).
