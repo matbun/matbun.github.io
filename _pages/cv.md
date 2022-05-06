@@ -54,8 +54,28 @@ and compared methods for scalable processing on huge transaction graphs.
   
 Skills
 ======
+* Machine learning and deep learning
+  * Classification, regression and clustering
+  * Supervised, unsupervised, self-supervised, and semi-supervised learning
+  * NLP, CV, generative modeling, graph ML, RL
+  * Sklearn, PyTorch
+
+* Coding
+  * Python, C, Bash
+  * Git and Agile development
+  * Unix OS and system calls
+
+* Data management
+  * ETL pipelines
+  * Hadoop and Spark frameworks
+  * RDBMS and SQL, NoSQL
+
+* Cyber-security
+  * Static and Control-flow Graph analysis
+  * Symbolic execution
+  * Evasive malware
 
 
 Downloads
 ======
-Download my CV [here](../files/CV.pdf)
+Download my CV [here](../files/CV.pdf)!
