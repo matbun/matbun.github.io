@@ -1,0 +1,9 @@
+---
+title: "Web application for daily covid updates"
+excerpt: "Angular web app for daily Covid updates visualization, hosted on Google Cloud platform."
+collection: portfolio
+---
+
+Angular web app for daily Covid updates visualization, hosted on Google Cloud platform. Available [here](https://covidapp-451c6.firebaseapp.com/home-page).
+
+Check my <a href="https://github.com/matbun/CovidApplication" target="_blank">GitHub repository</a> for more details! 
