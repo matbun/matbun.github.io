@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+Below you can find a summary of my career path.
+
 Education
 ======
 * **MSc. in Data Science and Engineering**, *EURECOM*, 2020 - 2022 (GPA: 17/20)
