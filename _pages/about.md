@@ -14,4 +14,4 @@ Recently I graduated from [Polythechnic University of Turin](https://www.polito.
 
 I am currently working in Huawei's [AI4Sec](https://ai4sec.net/) team, part of the Munich Research Center, as a Cyber-security Data Scientist.
 
-My long-term career goal is to participate in the development of useful, safe, and democratic AI, joining the best research-oriented companies -- like [DeepMind](https://www.deepmind.com/) and [OpenAI](https://openai.com/), to mention a few. Therefore, I am currently looking for a PhD position that could increase my chances of working for such companies.
+My long-term career goal is to participate in the development of useful, safe, and democratic AI, joining the best research-oriented companies -- like [DeepMind](https://www.deepmind.com/) and [OpenAI](https://openai.com/), to mention a few. Therefore, I am currently looking for a PhD position that could give me the chance to bring outstanding contributions to the development of AI.
