@@ -81,4 +81,4 @@ Skills
 
 Downloads
 ======
-Download my CV [here](../files/CV.pdf)!
+Download my CV <a href="../files/CV.pdf" target="_blank">here</a>!
