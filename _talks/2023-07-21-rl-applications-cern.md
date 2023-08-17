@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement learning and its applications for particle accelerators at CERN"
+title: "Reinforcement learning and its applications in particle accelerators at CERN"
 collection: talks
 type: "Lecture"
 permalink: /talks/2023-07-21-rl-applications-cern
