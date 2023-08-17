@@ -4,7 +4,7 @@ collection: talks
 type: "Technical Workshop"
 permalink: /talks/2023-03-16-openlab-workshop-dts
 venue: "CERN - Council Chamber"
-date: 2022-03-16
+date: 2023-03-16
 location: "Geneva, Switzerland"
 ---
 
