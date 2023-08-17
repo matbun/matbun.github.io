@@ -15,4 +15,5 @@ introduction to [interTwin](), an EC-funded project focusing on developing a Dig
 with the goal of alleviating the engineering burden on the reresearchers, benefitting the scientific community.
 
 The [2023 CERN openlab Technical Workshop](https://indico.cern.ch/event/1225408/) is the annual workshop organized by [CERN openlab](https://openlab.cern/)
-to showcase the advancements in computing technologies developed by CERN's IT department, also by collaborating with industry players, such as NVIDIA, Microsoft and Intel.
+to showcase the advancements in computing technologies developed by CERN's IT department, either independently or
+by collaborating with industry players, such as NVIDIA, Microsoft and Intel.
