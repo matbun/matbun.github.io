@@ -8,7 +8,7 @@ date: 2022-03-16
 location: "Geneva, Switzerland"
 ---
 
-More information (e.g., slides and recording) [can be found here](https://indico.cern.ch/event/1225408/contributions/5249300/)
+More information (e.g., slides and recording) [can be found here](https://indico.cern.ch/event/1225408/contributions/5249300/).
 
 This talk was given on the first day of the [2023 CERN openlab Technical Workshop](https://indico.cern.ch/event/1225408/) and concerned the
 introduction to [interTwin](), an EC-funded project focusing on developing a Digital Twins Engine (DTE) for scientific applications, 
