@@ -8,8 +8,6 @@ date: 2023-03-16
 location: "Geneva, Switzerland"
 ---
 
-More information (e.g., slides and recording) [can be found here](https://indico.cern.ch/event/1225408/contributions/5249300/).
-
 This talk was given on the first day of the [2023 CERN openlab Technical Workshop](https://indico.cern.ch/event/1225408/) and concerned the
 introduction to [interTwin](), an EC-funded project focusing on developing a Digital Twins Engine (DTE) for scientific applications, 
 with the goal of alleviating the engineering burden on the reresearchers, benefitting the scientific community.
@@ -17,3 +15,6 @@ with the goal of alleviating the engineering burden on the reresearchers, benefi
 The [2023 CERN openlab Technical Workshop](https://indico.cern.ch/event/1225408/) is the annual workshop organized by [CERN openlab](https://openlab.cern/)
 to showcase the advancements in computing technologies developed by CERN's IT department, either independently or
 by collaborating with industry players, such as NVIDIA, Microsoft and Intel.
+
+More information (e.g., slides and recording) [can be found here](https://indico.cern.ch/event/1225408/contributions/5249300/).
+
