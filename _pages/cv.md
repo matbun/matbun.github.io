@@ -20,7 +20,15 @@ Education
 
 Work experience
 ======
-* **Cyber-security Data scientist**, Jun 2022 - Present, *Huawei, Munich, Germany*
+* **Fellow for Artificial Intelligence**, Jan 2023 - Present, *[CERN openlab](https://openlab.cern/), Geneva, Switzerlad*
+  * Co-leading task of [interTwin project](https://www.intertwin.eu/) concerning the development of a framework for advanced AI workflows in science
+  * Scaling of PyTorch and TensorFlow workflows to large scale computing infrastructure (such as HPC systems)
+  * Scaling of hyper-parameter optimization to HPC systems through Ray Tune.
+  * Project management and main designer of the developed framework
+  * Recruiting, mentoring and supervision (e.g., students)
+  * Organization of events, such as [CERN openlab summer lectures 2023](https://indico.cern.ch/category/16988/)
+
+* **Cyber-security Data scientist**, Jun 2022 - Dec 2022, *Huawei, Munich, Germany*
   * Machine learning for malware analysis
   * Representation learning of binary files
   * Reinforcement-learning aided dynamic analysis of evasive malware
@@ -61,7 +69,13 @@ Skills
   * Classification, regression and clustering
   * Supervised, unsupervised, self-supervised, and semi-supervised learning
   * NLP, CV, generative modeling, graph ML, RL
-  * Sklearn, PyTorch
+  * Sklearn, PyTorch, TensorFlow
+  * Scaling of ML methods to HPC systems: SLURM, PyTorch and TensorFlow distributed, Ray Tune
+
+* Project Management
+  * Jira, Confluence, Gantt charts
+  * Writing of deliverables for EC projects and progress reports
+  * Basics of systems engineering     
 
 * Coding
   * Python, C, Bash
