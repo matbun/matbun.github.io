@@ -28,11 +28,11 @@ Work experience
   * Recruiting, mentoring and supervision (e.g., students)
   * Organization of events, such as [CERN openlab summer lectures 2023](https://indico.cern.ch/category/16988/)
 
-* **Cyber-security Data scientist**, Jun 2022 - Dec 2022, *Huawei, Munich, Germany*
+* **Cyber-security Data scientist**, Jun 2022 - Dec 2022, *Huawei, Munich, Germany*   
   Machine Learning-based binary code analysis: research on Machine Learning-based binary code similarity methods;
-  implemented feature engineering methods for disassembled binary code; maintained end-to-end AI workflows for
-  binary code embedding via language models, and control-flow graph embedding via Graph Neural Networs (GNNs);
-  developed Python APIs to allow the integration of pre-trained ML workflows in a malware detection product.
+implemented feature engineering methods for disassembled binary code; maintained end-to-end AI workflows for
+binary code embedding via language models, and control-flow graph embedding via Graph Neural Networs (GNNs);
+developed Python APIs to allow the integration of pre-trained ML workflows in a malware detection product.
 
 * **Research Intern**, Sep 2021 - Feb 2022, *Huawei, Munich, Germany*    
   Analyzed the shortcomings of modern malware analysis techniques; Proposed an improvement to
