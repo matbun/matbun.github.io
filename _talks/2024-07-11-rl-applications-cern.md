@@ -14,15 +14,15 @@ with the goal of explaining the potential of RL and its real-world applications 
 The course focused in particular on learning by doing, solving exercises together to better grasp the sometimes
 abstract concepts of RL.
 
-The lecture was divided in two sessions:
+### The lecture was divided in two sessions:
 
-1. Introduction to RL and its applications at CERN + exercises
-on Markov Decision Process (MDP): https://indico.cern.ch/event/1402869/
+1. Introduction to RL + exercises
+on Markov Decision Process (MDP): [https://indico.cern.ch/event/1402869/](https://indico.cern.ch/event/1402869/)
 2. RL applications for particle accelerators at CERN +
 exercises on SARSA, Q-learning, and Deep Reinforcement Learning
-(DQN model): https://indico.cern.ch/event/1438484/
+(DQN model): [https://indico.cern.ch/event/1438484/](https://indico.cern.ch/event/1438484/)
 
-Teaching materials:
+### Teaching materials:
 
 - [Slides](https://docs.google.com/presentation/d/1HObB0NPQuSgOl_n-TKQuEqcC9B6n7Is7avw6WshSIXM)
 - [Exercises notebook](https://github.com/matbun/rl-lecture/tree/main)
