@@ -23,3 +23,5 @@ In this live stream Matteo shows how ML metadata can be seamlessly relayed back 
 a central MLFlow tracking server on cloud, reachable from anywhere.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UcqiW69aPO4" title="interTwin demo: itwinai (WP6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+If you have troubles visualizing the live stream above, [watch it on YouTube](https://www.youtube.com/watch?v=UcqiW69aPO4).
