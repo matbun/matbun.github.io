@@ -1,6 +1,6 @@
 ---
 title: "itwinai - AI on cloud and HPC made simple for science"
-excerpt: "itwinai is a python toolkint developed in the interTwin project to support large-scale Digital Twin applications in science"
+excerpt: "itwinai is a python toolkit developed in the [interTwin project](https://intertwin.eu) to support large-scale Digital Twin applications in science."
 collection: portfolio
 ---
 
