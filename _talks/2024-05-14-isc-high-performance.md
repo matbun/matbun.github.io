@@ -19,6 +19,8 @@ project, resorting to [interLink](https://github.com/interTwin-eu/interLink), a 
 in the project by INFN and used by CERN to offload AI jobs to remote HPC resources throug a Kubernetes fronted,
 enabling large-scale AI workflows in science.
 
+The talk was given by Matteo on behalf of Maria Girone, head of [CERN openlab](https://openlab.cern/).
+
 The original abstract of the talk is:
 
 > For several years now, the strengths of cloud like elasticity, containerization, orchestration, multi-tenancy, and intricate workflows are becoming more important for HPC. At the same time, HPC techniques like performance optimization and scheduling are being added to the cloud to make it faster and handle large, tightly-coupled workloads. These developments have been sped up by the huge increase in demand for resources to train large machine learning models and the need to provide these resources to users with varying levels of HPC experience. How to decide where a workload is best served? Which workflows benefit from spanning on-prem and cloud? What are important elements of a cloud strategy for public sector? How to rethink HPC workflows beyond lift and shift? How to serve AI/ML as an HPC workload and how to cater for the users’ different level of HPC proficiency? This BoF will look at this convergence of HPC and Cloud from the perspective of a cloud provider, a public HPC center, an AI research center, a large scientific project, and industry. Each one of these has different constraints and different journeys, but all with the goal of getting the synergistic value from integrating both worlds.
