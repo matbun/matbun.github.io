@@ -1,7 +1,7 @@
 ---
 title: "Synergistically Integrating HPC and Cloud"
 collection: talks
-type: "Invited talk - Birds of a Feather"
+type: "Birds of a Feather"
 permalink: /talks/2024-05-14-isc-high-performance
 venue: "Congress Center Hamburg (CCH)"
 date: 2024-05-14

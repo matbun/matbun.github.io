@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I enjoy building intelligent systems to tackle complex problems. My expertise lies in machine learning and artificial intelligence (AI), with hands-on experience in computer vision, graph machine learning, generative models, and reinforcement learning.
+I build intelligent systems to solve complex, real-world problems. My focus is on digital twins, artificial intelligence, and the computing infrastructure that powers them (e.g., HPC systems).
 
-I earned a Master's degree in *Data Science and Engineering* from the [Polytechnic University of Turin](https://www.polito.it/index.php?lang=en) as part of a double-degree program with [EURECOM](https://www.eurecom.fr/en/home) in France.
+I'm currently a Fellow in the [CERN](https://home.cern/) IT Department and collaborate with [CERN openlab](https://openlab-wp.web.cern.ch/), where I lead a task in the [interTwin](https://www.intertwin.eu/) project. Our team is developing [itwinai](https://github.com/interTwin-eu/itwinai), a toolkit for large-scale AI workflows on high-performance computing (HPC) systems.
 
-Currently, I am a Fellow for Artificial Intelligence at [CERN openlab](https://openlab-wp.web.cern.ch/), where I co-lead a task within the [interTwin](https://www.intertwin.eu/) project. Our team is developing [itwinai](https://github.com/interTwin-eu/itwinai), a framework for scalable AI workflows in scientific computing. My work focuses on scaling PyTorch and TensorFlow workflows for high-performance computing (HPC) environments while integrating advanced hyperparameter optimization with Ray Tune.
+More recently, I've been working with the [LHCb experiment](https://lhcb.web.cern.ch/) on a digital twin of data centre operations to improve energy efficiency and resource allocation, as part of the [ODISSEE project](https://odissee-project.eu/).
 
-I am passionate about contributing to the development of AI that is impactful, safe, and widely accessible. My long-term goal is to advance AI research and applications in organizations that align with these principles.
+I'm focused on building trustworthy digital twins that strengthen scientific discovery and operations. Long-term, I aim to help research infrastructures adopt DTs as dependable tools for insight, performance, and sustainability.

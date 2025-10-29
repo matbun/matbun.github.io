@@ -1,5 +1,5 @@
 ---
-title: "P32 - InterTwin - An Interdisciplinary Digital Twin Engine for Science"
+title: "InterTwin - An Interdisciplinary Digital Twin Engine for Science"
 collection: talks
 type: "Poster"
 permalink: /talks/2024-06-04-pasc-intertwin
