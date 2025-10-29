@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matteo Bunino"
   avatar           : "profile.jpg"
-  bio              : "Data scientist and computer engineer"
+  bio              : "Digital Twin Ccomputing Engineer"
   location         : "Geneva, Switzerland"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : matteo-bunino-221335287/
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-5100-9300"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
