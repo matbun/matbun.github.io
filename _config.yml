@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matteo Bunino"
 title_separator          : "-"
 name                     : &name "Matteo Bunino"
-description              : &description "Data scientist and computer engineer"
+description              : &description "Digital Twin Computing Engineer"
 url                      : https://matbun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matbun.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matteo Bunino"
   avatar           : "profile.jpg"
-  bio              : "Data scientist and computer engineer"
+  bio              : "Digital Twin Computing Engineer"
   location         : "Geneva, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=uzyGjCUAAAAJ
-  email            : matteo.bunino@gmail.com
+  email            : matteo.bunino@cern.ch
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : matteo-bunino-221335287/
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-5100-9300"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "_matbun"
+  twitter          :
   vine             :
   weibo            :
   xing             :

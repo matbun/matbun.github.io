@@ -24,3 +24,6 @@ to showcase the advancements in computing technologies developed by CERN's IT de
 by collaborating with industry players, such as NVIDIA, Microsoft and Intel.
 
 More information (e.g., slides and recording) [can be found here](https://indico.cern.ch/event/1440389/contributions/6364407/).
+
+
+<img width="2495" height="1353" alt="openlab-workshop-2025" src="https://github.com/user-attachments/assets/57e59084-0547-4bd9-88e4-c65b8298dbd7" />

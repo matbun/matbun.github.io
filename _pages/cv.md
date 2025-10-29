@@ -20,78 +20,71 @@ Education
 
 Work experience
 ======
-* **Fellow for Artificial Intelligence**, Jan 2023 - Present, *[CERN openlab](https://openlab.cern/), Geneva, Switzerlad*
-  * Co-leading task of [interTwin project](https://www.intertwin.eu/) concerning the development of a framework for advanced AI workflows in science
-  * Scaling of PyTorch and TensorFlow workflows to large scale computing infrastructure (such as HPC systems)
-  * Scaling of hyper-parameter optimization to HPC systems through Ray Tune.
-  * Project management and main designer of the developed framework
-  * Recruiting, mentoring and supervision (e.g., students)
-  * Organization of events, such as [CERN openlab summer lectures 2023](https://indico.cern.ch/category/16988/)
 
-* **Cyber-security Data scientist**, Jun 2022 - Dec 2022, *Huawei, Munich, Germany*   
-  Machine Learning-based binary code analysis: research on Machine Learning-based binary code similarity methods;
-implemented feature engineering methods for disassembled binary code; maintained end-to-end AI workflows for
-binary code embedding via language models, and control-flow graph embedding via Graph Neural Networs (GNNs);
-developed Python APIs to allow the integration of pre-trained ML workflows in a malware detection product.
+* **Fellow**, Jan 2023 – Present, *CERN, Geneva, Switzerland*
+  * Main developer and Task 6.5 lead ([interTwin](https://www.intertwin.eu/)): architected and delivered **[itwinai](https://github.com/interTwin-eu/itwinai)**, an abstraction layer for distributed AI on HPC that combines data‑parallel training with scalable hyper‑parameter optimization while reducing engineering overheads for scientists.
+  * Validated itwinai on European HPC by integrating **four physics** digital‑twin use cases (e.g., MLPF) and **three Earth‑observation** use cases; optimized code scalability and throughput.
+  * Digital‑twin engineering at CERN openlab: coordinated two projects — **LHC infrastructure digital twin** with NVIDIA Omniverse and a **CMS ECAL DQM digital twin** with Imperial College London — and led technical discussions with NVIDIA, Google, and Imperial.
+  * **Cloud‑HPC integration:** enabled large‑scale AI with the Ray Kubernetes Operator via **[interLink](https://github.com/interlink-hq/interLink)**; built cross‑infrastructure container CI/CD with **Dagger**; presented results at **KubeCon + CloudNativeCon EU 2025**.
+  * **Benchmarking & energy:** measured performance and **energy consumption** of AI workloads for scientific digital twins on **LUMI (AMD MI250X)**, **Deucalion (Arm A64FX)**, **Jülich (NVIDIA A100/V100)**, and **Vega (NVIDIA A100)**; built Grafana dashboards for Prometheus telemetry.
+  * EC‑funded projects: **interTwin (2023–2025)**, **ODISSEE (2025–present)** — gathered use‑case requirements; assessed digital‑twin frameworks for data‑centre operations (e.g., **ExaDigiT**); evaluated **Energy Aware Runtime (EAR)**; liaised with partners (SURF, LHCb, NextSilicon, SiPearl).
+  * Community: organized a **Birds‑of‑a‑Feather** on scientific digital twins at **ISC 2025** (speakers from NVIDIA, SURF, CINES, ECMWF, CERN); presented work at **ISC 2024**, **CHEP 2024**, and **PASC 2025**.
+  * Mentoring & recruiting: supervised **4 summer students** and **3 technical students**; supported hiring of new fellows.
 
-* **Research Intern**, Sep 2021 - Feb 2022, *Huawei, Munich, Germany*    
-  Analyzed the shortcomings of modern malware analysis techniques; Proposed an improvement to
-dynamic malware analysis, leveraging Artificial Intelligence’s capability to deal with complex tasks;
-Transformed binary code extracted from executable binaries into embedding vectors;
-Implemented a working PoC based on Reinforcement Learning.
+* **Cyber‑security Data Scientist**, Jun 2022 – Dec 2022, *Huawei, Munich, Germany*
+  * Co‑designed and co‑developed an **LLM‑based malware‑analysis** framework; scaled AI workloads on **Huawei Cloud**; authored periodic technical progress reports; applied **graph ML** and **NLP** methods.
 
-* **Big Data Analyst Intern**, Mar 2019 - Jun 2019, *Technology Reply, Turin, Italy*  
-  Extracted unstructured textual information from bank transfers, collected from heterogeneous
-sources using Spark; Analyzed text with data exploration/visualization approaches; Preprocessed
-and transformed text into a numerical format, using NLP document embedding techniques;
-Implemented clustering methods for semi-supervised class discovery; Developed rule-based and
-machine learning (ML) based classifiers for bank transactions; Assessed models according to KPIs
-defined in agreement with the team; Organized transactions in an OWL ontology for semantic
-queries aimed at user profiling.
+* **Research Intern**, Sep 2021 – Feb 2022, *Huawei, Munich, Germany*
+  * Built a **reinforcement learning** proof‑of‑concept to automate reverse engineering of evasive malware, improving dynamic‑analysis efficiency and accuracy. (Thesis available on request.)
 
+* **Big Data Analyst Intern**, Mar 2019 – Jun 2019, *Technology Reply, Turin, Italy*
+  * Extracted unstructured information from bank transfers with **Spark**; engineered NLP pipelines (document embeddings, clustering, semi‑supervised class discovery); delivered ML models for transaction classification and an **OWL ontology** for semantic queries.
 
 Research projects
 ======
-* **Energy-based models (EBM)**, EURECOM Semester project, Mar 2021 – Jun 2021  
-Performed a theoretical study of EBM and comparison with other deep generative models such as
-Variational Autoencoders (VAEs); Compared different Markov chain (MCMC) sampling methods
-from learned data distribution (Langevin dynamics, SGHMC); Successfully implemented a working
-model, fully compliant with mathematical theory.
-* **Graph Convolutional Networks for anomaly detection in financial graphs**, Partnership
-EURECOM-ORACLE Semester project, Oct 2020 - Mar 2021  
-Analyzed the main pitfalls of anomaly detection applied to financial graphs; Performed a
-theoretical analysis of the current state of the art of Graph Convolutional Networks; Implemented
-and compared methods for scalable processing on huge transaction graphs.
 
-  
+* **Digital twins at CERN openlab** (2023 – present)
+  * **LHC infrastructure DT** with **NVIDIA Omniverse** for interactive 3D visualization and operations context.
+  * **CMS ECAL DQM DT** with Imperial College London: AI‑assisted data‑quality monitoring and visualization.
+  * **Cloud–HPC DT workflows** with **interLink** + Ray on Kubernetes; cross‑site CI/CD with **Dagger**.
+
+* **itwinai (interTwin Task 6.5)** (2023 – present)
+  * Open‑source framework to **scale AI workflows on HPC** (PyTorch/TensorFlow, DDP/Horovod/DeepSpeed, Ray Tune) with provenance and experiment management; validated on **physics** and **Earth‑observation** digital‑twin use cases.
+
+* **Energy & performance benchmarking of DT AI workloads** (2023 – 2025)
+  * Comparative measurements across **LUMI**, **Deucalion**, **Jülich**, **Vega**; telemetry via **Prometheus/Grafana**; analysis focused on throughput, scaling efficiency, and **energy consumption**.
+
 Skills
 ======
-* Machine learning and deep learning
-  * Classification, regression and clustering
-  * Supervised, unsupervised, self-supervised, and semi-supervised learning
+
+* **Machine learning & deep learning**
+  * Classification, regression, clustering; supervised/unsupervised/self‑supervised/semi‑supervised
   * NLP, CV, generative modeling, graph ML, RL
-  * Sklearn, PyTorch, TensorFlow
-  * Scaling of ML methods to HPC systems: SLURM, PyTorch and TensorFlow distributed, Ray Tune
+  * **PyTorch**, **TensorFlow**; scaling with **DDP**, **Horovod**, **DeepSpeed**; **Ray Tune** for HPO
 
-* Project Management
-  * Jira, Confluence, Gantt charts
-  * Writing of deliverables for EC projects and progress reports
-  * Basics of systems engineering     
+* **HPC & Cloud for AI**
+  * **SLURM**, **Kubernetes**; **Ray** on K8s; **interLink** for cloud–HPC workflows
+  * **Containers & CI/CD:** Docker, Singularity/Apptainer, **Dagger**, GitHub Actions
+  * **Observability & energy:** **Prometheus**, **Kepler**, **Grafana**; PUE/energy analysis
 
-* Coding
-  * Python, C, Bash
-  * Git and Agile development
-  * Unix OS and system calls
+* **Digital twin tooling**
+  * **NVIDIA Omniverse** for 3D/interactive visualization; **ExaDigiT** for DC modeling; Grafana dashboards
 
-* Data management
-  * ETL pipelines
-  * Hadoop and Spark frameworks
-  * RDBMS and SQL, NoSQL
+* **Programming & software engineering**
+  * Python, Go, C++, Bash; Git; Agile/iterative delivery; Unix/Linux
 
-* Cyber-security
-  * Static and Control-flow Graph analysis
-  * Symbolic execution
-  * Evasive malware
+* **Data management**
+  * ETL pipelines; Hadoop/Spark; SQL/NoSQL
+
+
+Selected talks & publications
+======
+
+* **Bunino M. et al.** *itwinai: Enabling Scalable AI Workflows on HPC for Digital Twins in Science*, **EPJ Conf., 2025**. DOI: [10.1051/epjconf/202533701361](https://doi.org/10.1051/epjconf/202533701361)
+* **[Testing AI Containers for Digital Twins in Science: a Cloud‑HPC Workflow](https://kccnceu2025.sched.com/event/1tx7o/testing-ai-containers-for-digital-twins-in-science-a-cloud-hpc-workflow-matteo-bunino-cern-diego-ciangottini-infn)**, **KubeCon EU 2025** (talk)
+* **BoF organiser & speaker** — *[Shaping the Future of Scientific Digital Twins](https://app.swapcard.com/event/isc-high-performance-2025/planning/UGxhbm5pbmdfMjU4NjExMw==)* (NVIDIA, SURF, CINES, ECMWF, CERN), **ISC 2025**
+* **BoF speaker** — *[Synergistically Integrating HPC and Cloud](https://app.swapcard.com/event/isc-high-performance-2024/planning/UGxhbm5pbmdfMTgyNjc5Nw==)*, **ISC 2024**
+
 
 
 Downloads
