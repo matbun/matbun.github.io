@@ -21,7 +21,9 @@ Education
 Work experience
 ======
 
-* **Fellow**, Jan 2023 – Present, *CERN, Geneva, Switzerland*
+* **Digital Twin Computing Engineer**, Jan 2026 – present, *CERN, Geneva, Switzerland*
+
+* **Fellow**, Jan 2023 – Dec 2025, *CERN, Geneva, Switzerland*
   * Main developer and Task 6.5 lead ([interTwin](https://www.intertwin.eu/)): architected and delivered **[itwinai](https://github.com/interTwin-eu/itwinai)**, an abstraction layer for distributed AI on HPC that combines data‑parallel training with scalable hyper‑parameter optimization while reducing engineering overheads for scientists.
   * Validated itwinai on European HPC by integrating **four physics** digital‑twin use cases (e.g., MLPF) and **three Earth‑observation** use cases; optimized code scalability and throughput.
   * Digital‑twin engineering at CERN openlab: coordinated two projects — **LHC infrastructure digital twin** with NVIDIA Omniverse and a **CMS ECAL DQM digital twin** with Imperial College London — and led technical discussions with NVIDIA, Google, and Imperial.
@@ -43,12 +45,14 @@ Work experience
 Research projects
 ======
 
-* **Digital twins at CERN openlab** (2023 – present)
+* **Digital twins for data centre operations efficiency** (2026 - present)
+
+* **Digital twins at CERN openlab** (2023 – 2025)
   * **LHC infrastructure DT** with **NVIDIA Omniverse** for interactive 3D visualization and operations context.
   * **CMS ECAL DQM DT** with Imperial College London: AI‑assisted data‑quality monitoring and visualization.
   * **Cloud–HPC DT workflows** with **interLink** + Ray on Kubernetes; cross‑site CI/CD with **Dagger**.
 
-* **itwinai (interTwin Task 6.5)** (2023 – present)
+* **itwinai (interTwin Task 6.5)** (2023 – 2025)
   * Open‑source framework to **scale AI workflows on HPC** (PyTorch/TensorFlow, DDP/Horovod/DeepSpeed, Ray Tune) with provenance and experiment management; validated on **physics** and **Earth‑observation** digital‑twin use cases.
 
 * **Energy & performance benchmarking of DT AI workloads** (2023 – 2025)
